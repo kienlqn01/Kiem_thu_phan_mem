@@ -3,7 +3,7 @@
 ### 1. Thông tin sinh viên
 - **Họ và tên:** Đào Văn Kiên
 - **MSSV:** BIT230221
-- **Email:** @gmail.com
+- **Email:** kiendao281205@gmail.com
 - **Môn học:** Kiểm thử phần mềm
 - **Giảng viên:** Trương Anh Hoàng
 
