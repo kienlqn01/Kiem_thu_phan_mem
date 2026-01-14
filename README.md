@@ -29,9 +29,7 @@
 - Ảnh có dấu hiệu cá nhân (ví dụ: đang đăng nhập Chrome)
 
 📌 **Hình ảnh minh chứng:**
-https://github.com/kienlqn01/Kiem_thu_phan_mem/blob/main/%E1%BA%A2nh%20ch%E1%BB%A5p%20m%C3%A0n%20h%C3%ACnh%202026-01-05%20165048.png
 <img width="1919" height="1079" alt="Ảnh chụp màn hình 2026-01-05 165048" src="https://github.com/user-attachments/assets/a420947e-7515-4bd7-b750-094a5e09293d" />
-C:\Users\Admin\Pictures\Screenshots\Ảnh chụp màn hình 2026-01-05 165048.png
 
 
 
